@@ -1,5 +1,5 @@
 /*
-  Arduino Office Climate CO2 Alert
+  Arduino Climate CO2 Alert
   Warns you when CO2 levels are too high with an alert LED.
 
   Notice!
